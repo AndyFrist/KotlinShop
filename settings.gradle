@@ -1,0 +1,2 @@
+include ':app', ':homelibrary', ':melibrary', ':baselibrary'
+rootProject.name='kotlinShop'
